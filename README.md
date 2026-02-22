@@ -147,6 +147,7 @@ Use these queries to populate Power BI datasets or to run exploratory analysis i
 ---
 
 ## Dashboard
+![India-AQI-Analysis-Dashboard](aqi_dashboard.png)
 
 The Power BI dashboard displays:
 - National average AQI, top polluted states & cities
